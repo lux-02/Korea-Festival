@@ -29,7 +29,7 @@
             ]
         },
         {
-            "id": 2,
+            "id": 3,
             "name": "워터밤 서울",
             "region": "SEOUL",
             "place": "잠실 종합운동장 보조경기장",
@@ -40,6 +40,19 @@
             "date": [
                 "2023.06.23",
                 "2023.06.25"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "포세이돈 워터 뮤직 페스티벌",
+            "region": "BUSAN",
+            "place": "부산 아시아드 보조경기장",
+            "ticket": "https://tickets.interpark.com/goods/23004217",
+            "poster": "https://ticketimage.interpark.com/Play/image/large/23/23004217_p.gif",
+            "time": 600,
+            "age": 19,
+            "date": [
+                "2023.07.29"
             ]
         }
     ]
