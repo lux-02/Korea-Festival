@@ -3,8 +3,8 @@
         {
             "id": 1,
             "name": "톤앤뮤직페스티벌",
-            "region": "서울",
-            "place": "서울 올림픽공원 88잔디마당",
+            "region": "SEOUL",
+            "place": "올림픽공원 88잔디마당",
             "ticket": "https://tickets.interpark.com/goods/23003443",
             "poster": "https://ticketimage.interpark.com/Play/image/large/23/23003443_p.gif",
             "time": 540,
@@ -17,12 +17,12 @@
         {
             "id": 2,
             "name": "서울파크뮤직페스티벌",
-            "region": "서울",
-            "place": "서울 올림픽공원 88잔디마당",
+            "region": "SEOUL",
+            "place": "올림픽공원 88잔디마당",
             "ticket": "https://tickets.interpark.com/goods/23003272",
             "poster": "https://ticketimage.interpark.com/Play/image/large/23/23003272_p.gif",
             "time": 480,
-            "age": 20,
+            "age": 19,
             "date": [
                 "2023.06.24",
                 "2023.06.25"
@@ -30,15 +30,15 @@
         },
         {
             "id": 2,
-            "name": "서울파크뮤직페스티벌",
-            "region": "서울",
-            "place": "서울 올림픽공원 88잔디마당",
-            "ticket": "https://tickets.interpark.com/goods/23003272",
-            "poster": "https://ticketimage.interpark.com/Play/image/large/23/23003272_p.gif",
-            "time": 480,
-            "age": 20,
+            "name": "워터밤 서울",
+            "region": "SEOUL",
+            "place": "잠실 종합운동장 보조경기장",
+            "ticket": "https://tickets.interpark.com/goods/23003676",
+            "poster": "https://ticketimage.interpark.com/Play/image/large/23/23003676_p.gif",
+            "time": 540,
+            "age": 19,
             "date": [
-                "2023.06.24",
+                "2023.06.23",
                 "2023.06.25"
             ]
         }

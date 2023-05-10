@@ -6,12 +6,14 @@ li {
 ul {
     width: 30%;
     height: 100%;
-    background-color: lightblue;
+    background-color: rgb(0, 0, 0);
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 0;
-    margin: 1vw;
+    padding: 2vw;
+    margin: 2vw;
+    color: white;
+    border-radius: 1.5vw;
 }
 
 li {
@@ -27,16 +29,15 @@ li {
     position: absolute;
     top: 0;
     right: 0;
-    background-color: rgba(71, 71, 71, 0.8);
-    color: white;
+    background-color: rgba(0, 0, 0, 0.9);
     padding: 1vw;
     font-size: 1.5vw;
-    text-align: right;
     width: 100%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     box-sizing: border-box;
+    font-weight: 700;
 }
 
 .title-box {
@@ -47,9 +48,14 @@ li {
 }
 
 .title-box p {
-    margin: 0.5vw 0;
+    padding: 0.5vw;
+    margin: 0;
     font-size: 1.3vw;
     font-weight: bold;
+}
+
+.title-box p:nth-child(1) {
+    margin-top: 1vw;
 }
 
 .title-box p:nth-child(2) {
