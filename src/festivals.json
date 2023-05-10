@@ -1,0 +1,32 @@
+{
+    "festivals": [
+        {
+            "id": 1,
+            "name": "톤앤뮤직페스티벌",
+            "region": "서울",
+            "place": "서울 올림픽공원 88잔디마당",
+            "ticket": "https://tickets.interpark.com/goods/23003443",
+            "poster": "https://ticketimage.interpark.com/Play/image/large/23/23003443_p.gif",
+            "time": 540,
+            "age": 12,
+            "date": [
+                "2023.06.03",
+                "2023.06.04"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "서울파크뮤직페스티벌",
+            "region": "서울",
+            "place": "서울 올림픽공원 88잔디마당",
+            "ticket": "https://tickets.interpark.com/goods/23003272",
+            "poster": "https://ticketimage.interpark.com/Play/image/large/23/23003272_p.gif",
+            "time": 480,
+            "age": 20,
+            "date": [
+                "2023.06.24",
+                "2023.06.25"
+            ]
+        }
+    ]
+}
